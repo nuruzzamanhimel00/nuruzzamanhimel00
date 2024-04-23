@@ -1,5 +1,3 @@
-![logo](https://github.com/mahabub900287/mahabub900287/blob/master/Mahabub%20alam.png)
-
 <a href="">
   <img align="right" src="https://komarev.com/ghpvc/?username=mahabub&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
