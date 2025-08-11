@@ -4,7 +4,7 @@
 
 <h1>As-Salaam-Alaikum  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h2> Hey there! I'm Md. Nuruzzaman Himel</h2>
+<h2> Hey there! I'm Md. Maruf Hossain Khan</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
