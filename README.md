@@ -113,13 +113,6 @@ CGPA: **3.81 / 4.00**
 - 🇧🇩 Bengali (Native)
 - 🇺🇸 English (Professional)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuruzzamanhimel00&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuruzzamanhimel00&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruzzamanhimel00&layout=compact&theme=radical)
 
 ---
 
