@@ -5,114 +5,145 @@
 <h1>As-Salaam-Alaikum 👋</h1>
 <h2>I'm Md. Nuruzzaman (Himel)</h2>
 
-🚀 **Full Stack Developer | Laravel | Vue.js | React | Next.js | Nuxt.js**  
+🚀 **Senior Full Stack Developer | Laravel | Vue | React | Next | Nuxt**  
 📍 Uttara, Dhaka, Bangladesh  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 💻 Full Stack Developer with **4+ years of experience** building scalable web applications  
-- ⚡ Expert in **Laravel, PHP, MySQL, Vue.js, React, Next.js, Nuxt.js**
-- 🔐 Skilled in **RESTful APIs, database optimization, CI/CD & Agile workflows**
-- 🧠 Passionate about **System Design, Cloud Architecture & AI**
-- 📝 Also interested in **Graphic Design & Blogging**
+Full Stack Developer with **4+ years of experience** building scalable web applications using Laravel, PHP, MySQL, and modern JavaScript frameworks.
+
+- 🚀 Developed **10+ scalable Laravel APIs** serving **5,000+ users**
+- ⚡ Improved frontend performance by **40% (Next.js/Nuxt.js)**
+- 📉 Reduced API response time by **35% through optimization**
+- 🤝 Strong experience in **Agile, CI/CD & team collaboration**
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Languages & Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/nuxtjs-black?style=for-the-badge&logo=nuxt.js)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery)
+### ⚙️ Backend
+- PHP, Laravel
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql)
+### 🎨 Frontend
+- Vue.js, React.js, Next.js, Nuxt.js  
+- Bootstrap, jQuery
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
+### 🗄 Databases
+- MySQL, PostgreSQL
+
+### 🧪 Tools & DevOps
+- Git, Composer, Postman, PHPUnit  
+- Docker (Basic), CI/CD Pipelines  
+
+### 🧠 Concepts
+- RESTful APIs, MVC, OOP  
+- API Security (JWT, OAuth)  
+- Caching, Microservices  
+- Agile (Scrum)
+
+### 🤖 AI Tools
+- GitHub Copilot, Claude, Lovable AI, Base44
 
 ---
 
 ## 💼 Work Experience
 
-### **Laravel Web Apps Developer — ITclan BD (Sept 2022 – Present)**
-- Developed scalable Laravel APIs and full-stack web applications (LMS & eCommerce)
-- Built SEO-friendly frontends with **Next.js & Nuxt.js**
-- Integrated **payment gateways, SMS/Email notifications & third-party services**
-- Worked in Agile teams to deliver production-ready solutions
-
-### **Software Engineer — Namespace IT (Jul 2021 – Aug 2022)**
-- Designed and deployed RESTful APIs using Laravel & MySQL
-- Optimized database queries to improve performance
-- Implemented unit testing & code reviews
-
-### **Web Developer — MyLightHost (Mar 2021 – Jun 2021)**
-- Maintained company and client websites
-- Integrated third-party APIs and improved UI/UX
+### 🏢 Laravel Web Apps Developer — ITclan BD *(Sept 2022 – Present)*
+- Built scalable APIs & full-stack systems (LMS, IMS, CMS, eCommerce)
+- Developed SEO-optimized frontend using **Next.js & Nuxt.js**
+- Improved page performance by **40%**
+- Integrated payment gateways & third-party services
+- Delivered projects in Agile sprint cycles
 
 ---
 
-## 🚀 Recent Projects
+### 🏢 Software Engineer — Namespace IT *(Jul 2021 – Aug 2022)*
+- Built REST APIs using Laravel, Vue & React
+- Developed **8+ APIs** and reduced response time by **35%**
+- Optimized database queries & improved performance
+- Implemented unit testing & code review processes
 
-### 📚 **LMS | Quagnite**
-- Multi-panel LMS system (Admin, Teacher, Student, Coach)
-- Stripe payment integration & RBAC  
-- Tech: **Laravel, Next.js, Stripe, APIs**
+---
 
-### 🛒 **IMS | Grozzer**
-- Inventory + eCommerce system
-- Integrated mobile apps for customers & delivery
-- Tech: **Laravel, Vue.js, MySQL**
+### 🏢 Web Developer — MyLightHost *(Mar 2021 – Jun 2021)*
+- Maintained client & company websites
+- Integrated APIs & improved UI/UX
+- Handled payment systems with **1000+ monthly transactions**
 
-### 🛍 **Shopintaneti**
-- Full eCommerce platform with order & product management  
-- Tech: **Laravel, Vue.js**
+---
 
-### 🍺 **Keg Metrics**
-- Client keg tracking & reporting system  
-- Tech: **Laravel, Vue.js, jQuery**
+## 🚀 Key Projects
 
-### 🎓 **Mentors CMS**
+### 🎓 Studbuddy
+**Tech:** Laravel, Next.js, Payment Gateway, Pusher, Agora  
+- Platform for accommodation, jobs & gigs  
+- Multi-role dashboard (Admin, Provider, Student)
+
+---
+
+### 📚 LMS | Quagnite
+**Tech:** Laravel, Next.js, Stripe  
+- Multi-role LMS (Admin, Teacher, Student, Coach)  
+- RBAC + payment integration + real-time features  
+
+---
+
+### 🛒 IMS | Grozzer
+**Tech:** Laravel, Vue.js, MySQL  
+- Inventory + eCommerce system  
+- Mobile integration for delivery & customers  
+
+---
+
+### 🛍 eCommerce | Shopintaneti
+**Tech:** Laravel, Vue.js  
+- Product management & order system  
+
+---
+
+### 🍺 Keg Metrics
+**Tech:** Laravel, Vue.js, jQuery  
+- Keg tracking & reporting system  
+
+---
+
+### 🎓 CMS | Mentors
+**Tech:** Laravel, jQuery, Ajax  
 - Content management platform for mentors  
-- Tech: **Laravel, React.js, jQuery**
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science & Engineering**  
+🎓 **B.Sc. in Computer Science & Engineering**  
 Daffodil International University  
 CGPA: **3.81 / 4.00**
 
 ---
 
+## 🧠 Core Competencies
+
+- Full Stack Web Application Development  
+- RESTful API Design & Security  
+- Database Design & Optimization  
+- Frontend Performance & SEO  
+- CI/CD & Agile Development  
+
+---
+
 ## 📚 Research
 
-- Thesis accepted at **IEMIS 2018 (Springer)**  
-  Paper ID: IEMIS2018_paper_319  
+- 📄 Thesis accepted at **IEMIS 2018 (Springer)**  
+  *Paper ID: IEMIS2018_paper_319*
 
 ---
 
 ## 🌍 Languages
 
-- 🇧🇩 Bengali (Native)
-- 🇺🇸 English (Professional)
-
+- 🇧🇩 Bengali — Native  
+- 🇺🇸 English — Professional  
 
 ---
 
@@ -126,4 +157,4 @@ CGPA: **3.81 / 4.00**
 
 ---
 
-⭐️ *“Building scalable systems and clean code is my passion.”*
+⭐️ *“Building scalable systems with clean, efficient code.”*
